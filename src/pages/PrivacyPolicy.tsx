@@ -13,7 +13,7 @@ export default function PrivacyPolicy() {
       </section>
 
       <div className="privacy-content">
-        <span className="privacy-effective">Effective Date: January 1, 2025</span>
+        <span className="privacy-effective">Effective Date: April 1, 2025</span>
 
         <div className="privacy-highlight-box">
           <p>
